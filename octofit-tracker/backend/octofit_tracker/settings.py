@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-oc=rri736&c-7ad=3x$pydu_l0qa)ih53x6$k7*y32=r9zd5$%
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'miniature-yodel-647v5gxr7qg25x9-8000.app.github.dev']
 
 
 # Application definition
